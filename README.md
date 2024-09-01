@@ -62,3 +62,5 @@ npx ts-node --files ./scripts/CastingVote.ts 0x0aCA03DA72A643f5403d07d7657C17B6E
 npx ts-node --files ./scripts/checkVotingRights.ts
 ```
 <img width="1429" alt="Capture d’écran 2024-09-01 à 22 23 31" src="https://github.com/user-attachments/assets/1e841a7e-f217-48a0-816f-d5c452a6f9d7">
+
+[REPORT ](https://docs.google.com/document/d/1sMnxbhnIqGti2nqgsHHJ1nOPOtQfDFqWtQOnLlBbF3Q/edit?hl=fr)
